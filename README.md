@@ -1,6 +1,6 @@
 # TP2# TP N°2 : La recherche d'éléments - Guide d'explication
 
-## 📋 Vue d'ensemble
+##  Vue d'ensemble
 
 Ce TP compare différents algorithmes de recherche et analyse leur complexité théorique et pratique.
 
